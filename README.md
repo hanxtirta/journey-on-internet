@@ -4,4 +4,5 @@ pengalaman browsing didasarkan pada rasa penasaran seorang user dimana suatu per
 
 Noob Browsing
 di sisi lain ribuan pertanyaan sering menghantui para user tapi di sisi lain juga kepandaian memilah informasi yang tepat secara fakta pun menjadi tantangan tersendiri apalagi ditambah adanya artifical intellegence (ai) menjadi kan membedakan konten fake atau real menjadi sulit di bedakan tanpa adanya watermark dari sang vendor.
-noob skill to be better
+
+upgrade skill to be better
